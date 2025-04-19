@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Brahim and I'm a Game Developer  from Tunisia.</h2>
 
 ###
-![Uploading you-know-rihanna.gif…]()
+
+![you-know-rihanna](https://github.com/user-attachments/assets/a4822078-cd9f-443d-b0f7-6161bd3ee552)
 
 
 <div align="center">
