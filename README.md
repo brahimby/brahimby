@@ -2,9 +2,6 @@
 
 ###
 
-![you-know-rihanna](https://github.com/user-attachments/assets/a4822078-cd9f-443d-b0f7-6161bd3ee552)
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brahimby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -34,5 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/brahimby/brahimby/output/snake.svg" alt="Snake animation" />
 
 ###
