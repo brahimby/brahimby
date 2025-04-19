@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Brahim and I'm a Game Developer  from Tunisia.</h2>
+<h2 align="center">Hi 👋! My name is Brahim and I'm a Game Developer  from Tunisia.</h2>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
