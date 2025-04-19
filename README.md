@@ -34,6 +34,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/brahimby/brahimby/output/snake.svg" alt="Snake animation" />
-
 ###
